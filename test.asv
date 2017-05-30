@@ -1,0 +1,8 @@
+function test
+
+for m = 1:5;
+m=int2str(m);
+a = 'day';
+strcat(a,m)=
+
+end
